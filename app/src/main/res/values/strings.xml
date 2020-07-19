@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="category_home">Home</string>
+    <string name="category_dining">Dining</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_contact">Activities</string>
+
+    <!-- Restaurants-->
+    <string name="restaurant_1">Noodology</string>
+    <string name="restaurant_2">Chan Chan Food house</string>
+    <string name="restaurant_3">Kitakata Ramen</string>
+    <string name="restaurant_4">Cha Chas Latin Kitchen</string>
+    <string name="restaurant_5">Baekjeong</string>
+    <string name="restaurant_1_address">15455 Jeffrey Rd, Irvine, CA 92618</string>
+    <string name="restaurant_2_address">14250 Culver Dr, Irvine, CA 92604</string>
+    <string name="restaurant_3_address">14370 Culver Dr Suite C, Irvine, CA 92604</string>
+    <string name="restaurant_4_address"> 13126 Jamboree Rd, Irvine, CA 92602</string>
+    <string name="restaurant_5_address">14160 Culver Dr, Irvine, CA 92604</string>
+
+    <!-- Shopping-->
+    <string name="shopping_1">Irvine Spectrum</string>
+    <string name="shopping_2">Northpark Plaza</string>
+    <string name="shopping_3">Orchard Hills Shopping Center</string>
+    <string name="shopping_4">Westpark Plaza</string>
+    <string name="shopping_5">Culver Plaza</string>
+    <string name="shopping_1_address">670 Spectrum Center Dr, Irvine, CA 92618</string>
+    <string name="shopping_2_address">3995 Irvine Blvd #3901, Irvine, CA 92602</string>
+    <string name="shopping_3_address">3993 Portola Pkwy #3801, Irvine, CA 92602</string>
+    <string name="shopping_4_address">3735-3995 Alton Pkwy, Irvine, CA 92606</string>
+    <string name="shopping_5_address">15275 - 15459, Culver Dr, Irvine, CA 92604</string>
+
+    <!-- Irvine Homescreen-->
+
+
+    <string name="welcome">
+    Irvine, California was master-planned to be an economic powerhouse and offer an extraordinary quality of life. A leading business center with more than 100 global corporations; a family-oriented multicultural community where residents speak more than 70 languages; a leader in education,
+    Irvine is where community, business, and nature are in harmony. Beautifully manicured office parks are surrounded by more than 16,500 acres of parks, sports fields and dedicated open space, the most in the county, offering residents and visitors alike preserved natural habitats and
+    wildlands with miles of hiking and biking trails. You’ll also appreciate Irvine being recognized as “America’s Safest Big City” by the FBI since 2005.
+   </string>
+
+    <string name="home_info">Incorporated	December 28, 1971
+    \nPopulation 212,375
+    \nWebsite cityofirvine.org</string>
+
+    <!-- Attractions-->
+    <string name="irvine_museum">Irvine museum</string>
+    <string name="irvine_museum_info"> With the acquisition of The Irvine Museum Collection in 2016 and the addition of The Buck Collection in 2017,
+    the University of California, Irvine has become home to a significant collection of California art ranging from
+    19th-century California Impressionism and plein air to Post-War Contemporary.</string>
+
+    <string name="tanaka_farms">Tanaka farms</string>
+    <string name="tanaka_farms_info">
+    Tanaka Farms is a living reminder of Irvines agricultural past. An organic, family-run operation that,
+    offers year-round, hands-on tours of its gardens and U-Pick Pumpkin Patch in the fall.</string>
+
+    <string name="great_park">Great Park</string>
+    <string name="great_park_info">
+    oday at the Orange County Great Park, an innovative public space is taking shape. Based on a visionary plan for 1,300 acres of amenities and
+    parks space, more than 450 acres of park space has been completed, with more than 230 additional acres in progress.</string>
+</resources>
